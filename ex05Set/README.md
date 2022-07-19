@@ -9,15 +9,27 @@ Your program should read Instructor Alex's A, B, and C students, then show the
 total number and students, as an example.
 
 Exemple:
+
 How many students for course A? 3
+
 21
+
 35
+
 22
+
 How many students for course B? 2
+
 21
+
 50
+
 How many students for course C? 3
+
 42
+
 35
+
 13
+
 Total students: 6
